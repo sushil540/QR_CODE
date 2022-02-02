@@ -1,0 +1,42 @@
+
+body{
+  margin:0;
+
+  background-color:hsl(212, 45%, 89%);
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  margin-top:100px;
+  margin-left:540px;
+  background-color: white;
+  width:290px;
+  height:450px;
+  border-radius: 10px;
+}
+
+.qr {
+ width:270px;
+ height:270px;
+ border-radius: 8px;
+ position: relative;
+ left:10px;
+ top:10px;
+}
+
+.bold {
+  margin: 30px 30px 10px 30px;
+  padding: 4px;
+  text-align:center;
+  font-weight: 700;
+  font-family: 'Tahoma','verdana','Montserrat', sans-serif;
+  font-size: 1.0rem;
+}
+
+.para {
+  margin: 5px 20px 10px 20px;
+  padding: 10px 20px 10px 20px;
+  font-family: 'system-ui','Outfit', sans-serif;
+  font-size: 0.77rem;
+  text-align: center;
+
+}
